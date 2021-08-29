@@ -1,0 +1,11 @@
+# Idea project files
+.idea/*
+
+# VS Code
+.vscode/
+
+# ignore .env
+.env
+
+# Something from VS Code
+.ionide/
