@@ -1,7 +1,7 @@
 # Long story short
-Yuor colleaue was warking hard and got sick. Unfortunatelly, the company will have a custommer demo tomorrow.
+Your collegue got sick. Unfortunatelly, the company will have a custommer demo tomorrow.
 
-The only way to save face is to finish features till the demo starts.
+The only way to save face is to finish features prior scheduled demo.
 
 # Tasks
 
@@ -12,8 +12,8 @@ The manager asks you to make every effort finishing this in time.
 * Third task is to add method to get users who will have birthday on the next 7 days from tomorrow
 * The last thing you need to do is to make the project build and run under the docker (modify docker file)
 
-TODO List: https://i.imgur.com/Wl7HQP2.png
-![TODO List](https://i.imgur.com/Wl7HQP2.png)
+TODO List: https://i.imgur.com/LFrJwnb.png
+![TODO List](https://i.imgur.com/LFrJwnb.png)
 
 As it is just a demo you don't need to include any data source and make use of DummyUsersCollection.cs
 
